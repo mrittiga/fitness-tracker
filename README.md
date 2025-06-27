@@ -1,7 +1,7 @@
-💪 Fitness Tracker Web App
+💪 Fitness Tracker Web App     DEMO:file:///C:/Users/mritt/OneDrive/Desktop/fullstack/fitness/Fitness%20tracker/index.html
 
 
-📋 Project Description
+📋 Project Description                   
 The Fitness Tracker is a simple and interactive web application built using HTML, CSS, and JavaScript that helps users track their daily fitness activities. Users can log workouts, set fitness goals, and monitor their progress in an easy-to-use interface.
 
 
