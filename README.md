@@ -1,4 +1,4 @@
-💪 Fitness Tracker Web App     DEMO:file:///C:/Users/mritt/OneDrive/Desktop/fullstack/fitness/Fitness%20tracker/index.html
+💪 Fitness Tracker Web App     
 
 
 📋 Project Description                   
